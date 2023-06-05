@@ -56,3 +56,7 @@ function checkScore() {
     }
   });
 }
+let Refresh = document.getElementById("Refresh");
+function refresh() {
+  window.location.reload("Refresh");
+}

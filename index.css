@@ -64,3 +64,11 @@ body {
     margin-right: -15%;
     width: 100%;
 }
+
+button {
+    padding: 15px;
+    font-size: larger;
+    font-weight: bold;
+    background-color: lavender;
+    border-radius: 5px;
+}
